@@ -1,7 +1,7 @@
 # stream-chat-ios-interaction-patterns
 A set of iOS interaction and transition patterns/styles for chat messaging apps
 
-## Simple Photo Zoom Interaction<a href="https://gist.github.com/amosgyamfi/5214583c1445e575a84eb2f3dae17c08#file-singlephotozoom-swift****">Gist (SwiftUI): Soon</a>
+## Simple Photo Zoom Interaction<a href="https://gist.github.com/amosgyamfi/5214583c1445e575a84eb2f3dae17c08#file-singlephotozoom-swift****"> Gist (SwiftUI)</a>
 ![Simple Photo Zoom Interactio](https://github.com/GetStream/stream-chat-ios-interaction-patterns/blob/main/PhotoZoomEffect/singlePhotoZoom.gif)
 
 ## Longpress to show reactions and context menus <a href="">Gist (SwiftUI): Soon</a>
