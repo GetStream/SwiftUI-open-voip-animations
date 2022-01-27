@@ -1,6 +1,9 @@
 # stream-chat-ios-interaction-patterns
 A set of iOS interaction and transition patterns/styles for chat messaging apps
 
+## SwiftUI Chat Micro-interactions with Spring Animation <a href="s">Gist</a>
+![SwiftUI Chat Micro-interactions with Spring Animation ](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/M/MessengerReactionsGestures.gif)
+
 ## Simple Photo Zoom Interaction with Spring Animation<a href="https://gist.github.com/amosgyamfi/5214583c1445e575a84eb2f3dae17c08#file-singlephotozoom-swift****"> Gist (SwiftUI)</a>
 ![Simple Photo Zoom Interactio](https://github.com/GetStream/stream-chat-ios-interaction-patterns/blob/main/PhotoZoomEffect/singlePhotoZoom.gif)
 
