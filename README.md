@@ -1,23 +1,7 @@
-# SwiftUI iOS 16 Screens Island 📱
+# Speaking SwiftUAI: Human-ChatGPT Interaction Techniques 
 
-SwiftUI clones of iOS 16 and first-class citizen Apple apps' screens. All in one place. Each screen is in the Xcode project. So, feel free to use the code for your projects. What you see on each screen is what you get from the Swift/SwiftUI files in the Xcode project. 
+## ChatGPT to SwiftUI Interaction Techniques and Best Practices
 
-## The new minimal-look iOS 16 video player
+Describing what you want in ChatGPT for a SwiftUI project can be challenging. Discover the tips, tricks, techniques and hidden-gems in asking/instructing ChatGPT to get the best SwiftUI code and results. 
 
----
-
-## iOS 16 video player: Live broadcast UI
-
----
-
-## iOS 16 video player: Video scrubbing progress bar
-
----
-
-## iOS 16 edit menu
-
----
-
-## iOS 16 Books: Now reading UI
-
----
+You may contribute to this repo by adding your findings to the readme. 
