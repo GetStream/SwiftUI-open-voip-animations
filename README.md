@@ -14,5 +14,5 @@
 
 **SwiftUI Live Video Reaction Animations**: [Swift file](https://github.com/GetStream/swift-and-swiftui-tutorial-projects/tree/main/AnimatedEmojiReactions)
 
-<p text-align: "center">![SwiftUI Live Video Reaction Animations ](https://github.com/GetStream/swift-and-swiftui-tutorial-projects/blob/main/AnimatedEmojiReactions/emojiReactions1.gif)</p>
+<p style="text-align:center;"><img src="https://github.com/GetStream/swift-and-swiftui-tutorial-projects/blob/main/AnimatedEmojiReactions/emojiReactions1.gif" alt="SwiftUI Live Video Reaction Animations"></p>
 ---
