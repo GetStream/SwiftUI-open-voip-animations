@@ -16,3 +16,18 @@
 
 ![SwiftUI Incoming CAll Animation](https://github.com/GetStream/swift-and-swiftui-tutorial-projects/blob/main/AnimatedEmojiReactions/emojiReactions1.gif)
 ---
+
+**Group Incoming CAll Animation**: [Swift file](#)
+
+![Group Incoming CAll Animation](https://github.com/GetStream/SwiftUI-open-audio-video-animations/blob/main/imagePreviews/groupIncomingCall.gif)
+---
+
+**Group Incoming CAll Animation**: [Swift file](#)
+
+![Group Incoming CAll Animation](https://github.com/GetStream/SwiftUI-open-audio-video-animations/blob/main/imagePreviews/groupIncomingCall2.gif)
+---
+
+**Hand Raising Animations in Meetings**: [Swift file]()
+
+![Hand Raising Animations in Meetings](https://github.com/GetStream/SwiftUI-open-audio-video-animations/blob/main/imagePreviews/handRaising.gif)
+---
