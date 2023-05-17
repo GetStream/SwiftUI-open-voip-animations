@@ -4,7 +4,7 @@
 
 **SwiftUI Live Streaming Animation**: [Swift file]()
 
-![SwiftUI Live Streaming Animation](https://github.com/GetStream/SwiftUICallingAnimationsKit/blob/main/imagePreviews/livestreamingCharacter.gif)
+![SwiftUI Live Streaming Animation](https://github.com/GetStream/SwiftUI-open-audio-video-animations/blob/main/imagePreviews/livestreamCharacter.gif)
 ---
 
 **SwiftUI Incoming CAll Animation**: [Swift file](#)
@@ -12,4 +12,6 @@
 ![SwiftUI Incoming CAll Animation](https://github.com/GetStream/SwiftUICallingAnimationsKit/blob/main/imagePreviews/incomingCall1.gif)
 ---
 
-
+**SwiftUI Live Video Reaction Animations**: [Swift file](https://github.com/GetStream/swift-and-swiftui-tutorial-projects/tree/main/AnimatedEmojiReactions)
+![SwiftUI Live Video Reaction Animations ](https://github.com/GetStream/swift-and-swiftui-tutorial-projects/blob/main/AnimatedEmojiReactions/emojiReactions1.gif)
+---
