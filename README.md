@@ -12,6 +12,11 @@
 ![SwiftUI Incoming CAll Animation](https://github.com/GetStream/SwiftUICallingAnimationsKit/blob/main/imagePreviews/incomingCall1.gif)
 ---
 
+**WhatsApp's Async Voice Message Animation**: [Swift file](#)
+
+![WhatsApp's Async Voice Message Animation](https://github.com/GetStream/SwiftUI-open-audio-video-animations/blob/main/imagePreviews/whatsAppPushToTalk.gif)
+---
+
 **SwiftUI Live Video Reaction Animations**: [Swift file](https://github.com/GetStream/swift-and-swiftui-tutorial-projects/tree/main/AnimatedEmojiReactions)
 
 ![SwiftUI Incoming CAll Animation](https://github.com/GetStream/swift-and-swiftui-tutorial-projects/blob/main/AnimatedEmojiReactions/emojiReactions1.gif)
