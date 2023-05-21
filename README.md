@@ -42,9 +42,6 @@
 ![Slide animation using scale, opacity and hue rotation, offset and spring](https://github.com/GetStream/SwiftUI-open-audio-video-animations/blob/main/imagePreviews/slideWithSpring.gif)
 ---
 
-![SwiftUI Incoming CAll Animation](https://github.com/GetStream/swift-and-swiftui-tutorial-projects/blob/main/AnimatedEmojiReactions/emojiReactions1.gif)
----
-
 **Group Incoming CAll Animation**: [Swift file](#)
 
 ![Group Incoming CAll Animation](https://github.com/GetStream/SwiftUI-open-audio-video-animations/blob/main/imagePreviews/groupIncomingCall.gif)
