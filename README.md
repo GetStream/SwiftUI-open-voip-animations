@@ -17,7 +17,30 @@
 ![WhatsApp's Async Voice Message Animation](https://github.com/GetStream/SwiftUI-open-audio-video-animations/blob/main/imagePreviews/whatsAppPushToTalk.gif)
 ---
 
-**SwiftUI Live Video Reaction Animations**: [Swift file](https://github.com/GetStream/swift-and-swiftui-tutorial-projects/tree/main/AnimatedEmojiReactions)
+**Slide animation using scale, opacity and offset**: [Swift file](#)
+
+![Slide animation using scale](https://github.com/GetStream/SwiftUI-open-audio-video-animations/blob/main/imagePreviews/slideWithScale.gif)
+---
+
+**Slide animation using opacity and rotation**: [Swift file](#)
+
+![Slide animation using opacity and rotation](https://github.com/GetStream/SwiftUI-open-audio-video-animations/blob/main/imagePreviews/slideWithRotation.gif)
+---
+
+**Slide animation using opacity and hue rotation**: [Swift file](#)
+
+![Slide animation using opacity and hue rotation](https://github.com/GetStream/SwiftUI-open-audio-video-animations/blob/main/imagePreviews/slideWithHueRotation.gif)
+---
+
+**Slide animation using scale, opacity and hue rotation and offset**: [Swift file](#)
+
+![Slide animation using scale, opacity and hue rotation and offset](https://github.com/GetStream/SwiftUI-open-audio-video-animations/blob/main/imagePreviews/slideWithHueRGradient.gif)
+---
+
+**Slide animation using scale, opacity and hue rotation, offset and spring**: [Swift file](#)
+
+![Slide animation using scale, opacity and hue rotation, offset and spring](https://github.com/GetStream/SwiftUI-open-audio-video-animations/blob/main/imagePreviews/slideWithSpring.gif)
+---
 
 ![SwiftUI Incoming CAll Animation](https://github.com/GetStream/swift-and-swiftui-tutorial-projects/blob/main/AnimatedEmojiReactions/emojiReactions1.gif)
 ---
