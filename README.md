@@ -17,6 +17,11 @@
 ![WhatsApp's Async Voice Message Animation](https://github.com/GetStream/SwiftUI-open-audio-video-animations/blob/main/imagePreviews/whatsAppPushToTalk.gif)
 ---
 
+**Slide animation using scale, 3D rotation, opacity and hue rotation**: [Swift file](#)
+
+![Slide animation using scale, 3D rotation, opacity and hue rotation](https://github.com/GetStream/SwiftUI-open-audio-video-animations/blob/main/imagePreviews/slideWith3DRotation.gif)
+---
+
 **Slide animation using scale, opacity and offset**: [Swift file](#)
 
 ![Slide animation using scale](https://github.com/GetStream/SwiftUI-open-audio-video-animations/blob/main/imagePreviews/slideWithScale.gif)
