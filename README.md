@@ -1,6 +1,6 @@
 # SwiftUI Audio/Video Animations Cheat Sheet For Developers
 
-## These are SwiftUI animations and design clones from popular calling, audio-room, and live streaming apps. This repo is your inspiration to integrate great animations into audio and video-based iOS apps. Enjoy.
+## Universal iOS UI, interactions, animations, micro-interactions cheatsheet for developers building VoIP apps, such as audio/video calling, live streaming, audio rooms, and async voice messaging. 
 
 **SwiftUI Live Streaming Animation**: [Swift file]()
 
