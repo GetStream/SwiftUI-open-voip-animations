@@ -1,7 +1,7 @@
 # SwiftUI Open VoIP Animations 
 ## A Cheat Sheet For Developers
 
-## Universal iOS UI, interactions, animations, micro-interactions cheatsheet for developers building VoIP apps, such as audio/video calling, live streaming, audio rooms, and async voice messaging. 
+## iOS interactions, animations, micro-interactions cheatsheet for developers building VoIP apps, such as audio/video calling, live streaming, audio rooms, and async voice messaging. 
 
 **SwiftUI Live Streaming Animation**: [Swift file]()
 
